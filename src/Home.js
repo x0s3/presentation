@@ -144,7 +144,7 @@ class Home extends Component {
                                 </div>
                                 <div className="movil-desc">
                                     <p className="code-title"/>
-                                    <p>Aptitudes: React-Native, Realm, Kotlin</p>
+                                    <p>Aptitudes: React-Native, Realm, Java</p>
                                     <div className="code-icon"/>
                                 </div>
                                 <div className="javascript-desc">
