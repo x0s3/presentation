@@ -41,7 +41,7 @@ class Home extends Component {
                                 </div>
                             </div>
                             <div className="grid-2">
-                                <div className="hex-wrap html" data-title="PERSEVERANTE" data-content="perseverantre"
+                                <div className="hex-wrap html" data-title="PERSEVERANTE" data-content="perseverante"
                                      data-color="#00ABFF">
                                     <div className="hex-init"/>
                                     <div className="hex-borders">
@@ -137,20 +137,20 @@ class Home extends Component {
                                     <p>Aptitudes: HTML5, CSS3, React, jQuery, AJAX</p>
                                     <div className="code-icon"/>
                                 </div>
-                                <div className="perseverantre">
+                                <div className="perseverante">
                                     <p className="code-title"/>
                                     <p>Aunque haya obstáculos en el camino siempre hacia delante</p>
                                     <div className="code-icon"/>
                                 </div>
                                 <div className="movil-desc">
                                     <p className="code-title"/>
-                                    <p>Aptitudes: React-Native, Realm, Java</p>
+                                    <p>Aptitudes: React-Native, Realm, Kotlin</p>
                                     <div className="code-icon"/>
                                 </div>
                                 <div className="javascript-desc">
                                     <p className="code-title"/>
                                     <p>Aptitudes: Javascript, React, React-Native, Redux, NodeJS, TypeScript,
-                                        Socket.io</p>
+                                        Socket.io, ElectronJS</p>
                                     <div className="code-icon"/>
                                 </div>
                                 <div className="honesto-desc">
@@ -160,7 +160,8 @@ class Home extends Component {
                                 </div>
                                 <div className="solidario-desc">
                                     <p className="code-title"/>
-                                    <p>Si un compañero necesita ayuda, siempre lo ayudo aunque sea una tarea ajena a mi</p>
+                                    <p>Si un compañero necesita ayuda, siempre lo ayudo aunque sea una tarea ajena a
+                                        mi</p>
                                     <div className="code-icon"/>
                                 </div>
                             </div>

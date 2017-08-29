@@ -240,7 +240,7 @@ p.code-title {
     background-position: right center;
 }
 
-.perseverantre.desc-active::after {
+.perseverante.desc-active::after {
     background: url(https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif);
     background-repeat: no-repeat;
     background-size: contain;

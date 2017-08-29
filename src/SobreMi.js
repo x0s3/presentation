@@ -102,7 +102,8 @@ class SobreMi extends PureComponent {
                             Grácias a estas tecnologías puedo abarcar todos los campos del desarrollo tanto web como
                             móvil.
                             <br/>
-                            Pero no todo es este lenguaje, también uso otros como Java, PHP y .NET(ASP y VBasic).<br/>
+                            Pero no todo es este lenguaje, también uso otros como Java(Kotlin), PHP y .NET(ASP y
+                            VBasic).<br/>
                             Si alguna vez necesito realizar un proyecto en un lenguaje que no he tocado lo aprendo, y
                             rápido. Y lo mejor de todo, en mi tiempo libre ya que uno de mis hobbies favoritos es
                             programar. Por eso mismo siempre estoy en continuo aprendizaje en el mundo de la
